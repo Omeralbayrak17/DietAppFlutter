@@ -2,15 +2,14 @@
 
 Diet App Project.
 
-## Getting Started
+Hi, this is my first project with using firebase and flutter.
 
-This project is a starting point for a Flutter application.
+Diet App project calculates people height and weight so it can give them a reliable diet plan.
 
-A few resources to get you started if this is your first Flutter project:
+All the images I used in this app belongs to their owners from unsplash.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+These are the some screenshots from app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![dietapp_auth](https://github.com/Omeralbayrak17/DietAppFlutter/assets/93114455/77350f5a-45b7-494f-96cf-7759fe5a941d)
+
+![dietapp_blogs](https://github.com/Omeralbayrak17/DietAppFlutter/assets/93114455/2a9eb44a-c69c-4e07-a5d6-de0befacb73d)
