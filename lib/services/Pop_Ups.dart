@@ -5,6 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:another_flushbar/flushbar.dart';
+
 final user = FirebaseAuth.instance.currentUser;
 
 final FirebaseAuth _auth = FirebaseAuth.instance;

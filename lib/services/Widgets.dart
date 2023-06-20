@@ -3,8 +3,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../screen/login_page.dart';
-
 Widget dietAppLogo() {
   return Container(
     height: 300,
