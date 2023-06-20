@@ -10,7 +10,4 @@ All the images I used in this app belongs to their owners from unsplash.com
 
 These are the some screenshots from app:
 
-![Başlıksız-6](https://github.com/Omeralbayrak17/DietAppFlutter/assets/93114455/e13febc2-d8d0-4285-9323-b4621601d6c2)
-
-![blogs](https://github.com/Omeralbayrak17/DietAppFlutter/assets/93114455/376b8355-eafd-4723-9176-6dd4e1b44503)
-
+![profile](https://github.com/Omeralbayrak17/DietAppFlutter/assets/93114455/cfbb3bd8-446c-445e-860e-e32294f1482d)
