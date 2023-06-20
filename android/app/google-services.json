@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328810656946",
+    "project_id": "dietapp-35fda",
+    "storage_bucket": "dietapp-35fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328810656946:android:db89db687f619e0f93c5ab",
+        "android_client_info": {
+          "package_name": "com.omeralbayrak.diet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328810656946-5ijkor5evhokt6jhv88cvaqh14fnt1m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaAPMi-aO3st6odTFFvTQ5QLtcv1NMb24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328810656946-5ijkor5evhokt6jhv88cvaqh14fnt1m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
